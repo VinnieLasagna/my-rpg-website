@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_rpg_website=self.webpackChunkmy_rpg_website||[]).push([[9121],{8462:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/my-rpg-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

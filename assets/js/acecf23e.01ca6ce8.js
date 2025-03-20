@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_rpg_website=self.webpackChunkmy_rpg_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/my-rpg-website/blog","blogTitle":"Blog","authorsListPath":"/my-rpg-website/blog/authors"}')}}]);
