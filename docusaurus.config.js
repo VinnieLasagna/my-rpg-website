@@ -25,6 +25,7 @@ const config = {
   organizationName: 'VinnieLasagna', // Usually your GitHub org/user name.
   projectName: 'my-rpg-website', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
