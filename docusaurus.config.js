@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Jayson\'s RPG Site',
   tagline: 'Always bet on skeletons.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/all-seeing-die.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
