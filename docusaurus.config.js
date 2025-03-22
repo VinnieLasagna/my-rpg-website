@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Jayson\'s RPG Site',
+  title: 'Jaylord\'s Lair',
   tagline: 'Always bet on skeletons.',
   favicon: 'img/all-seeing-die.ico',
 
@@ -75,26 +75,27 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/on_the_news.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Jaylord\'s Lair',
         logo: {
           alt: 'The All Seeing Die',
           src: 'img/all-seeing-die.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
+//          {
+//            type: 'docSidebar',
+//            sidebarId: 'tutorialSidebar',
+//            position: 'left',
+//            label: 'Tutorial',
+//          },
+          {to: '/docs/intro', label: 'Tutorial', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+//          {
+//            href: 'https://github.com/facebook/docusaurus',
+//            label: 'GitHub',
+//            position: 'right',
+//          },
         ],
       },
       footer: {
@@ -112,18 +113,18 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+ //             {
+ //               label: 'Stack Overflow',
+ //               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+ //             },
+ //             {
+ //               label: 'Discord',
+ //               href: 'https://discordapp.com/invite/docusaurus',
+ //             },
+ //             {
+ //               label: 'X',
+ //               href: 'https://x.com/docusaurus',
+ //             },
             ],
           },
           {
@@ -133,10 +134,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+//              {
+//                label: 'GitHub',
+//                href: 'https://github.com/facebook/docusaurus',
+//              },
             ],
           },
         ],
