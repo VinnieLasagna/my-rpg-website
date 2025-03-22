@@ -89,8 +89,8 @@ const config = {
 //            position: 'left',
 //            label: 'Tutorial',
 //          },
-          {to: '/docs/intro', label: 'Tutorial', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/welcome', label: 'Games', position: 'left'},
+//          {to: '/blog', label: 'Blog', position: 'left'},
 //          {
 //            href: 'https://github.com/facebook/docusaurus',
 //            label: 'GitHub',
@@ -105,8 +105,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Games',
+                to: '/docs/welcome',
               },
             ],
           },
