@@ -2,6 +2,7 @@
   "label": "Goats & Hoes (Star Wars D6)",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "5 minutes to learn the most important Docusaurus concepts."
   }
 }

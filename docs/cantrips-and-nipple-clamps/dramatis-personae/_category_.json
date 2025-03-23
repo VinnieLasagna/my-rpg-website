@@ -1,0 +1,8 @@
+{
+  "label": "Dramatis Personae",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "The cast of friends, foes, liars, scoundrels, & fools that move our adventure forward through the Forgotten Realms, and those we've met along the way."
+  }
+}

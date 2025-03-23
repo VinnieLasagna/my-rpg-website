@@ -1,0 +1,8 @@
+{
+  "label": "Adventure Log",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "A journal of events chronicling the mishaps and poor choices of a group of adventure-seekers, rolling through the realms, scrounging for gold and glory wherever they can."
+  }
+}

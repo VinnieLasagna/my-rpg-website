@@ -14,6 +14,6 @@ Check the **nav menu** to select from the list of campaigns. The ruleset used by
 
 :::warning
 
-Excuse the hot mess while this site is under construction. It it taking time for our team of highly-trained chimps in business suits to figure out the internet technologies.
+Excuse the hot mess while this site is under construction. It is taking time for our team of highly-trained chimps in business suits to figure out the internet technologies.
 
 :::
